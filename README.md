@@ -75,12 +75,14 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmoinshaikh&show_icons=true&locale=en&layout=compact" alt="mrmoinshaikh" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmoinshaikh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrmoinshaikh" />
+</div>
 
-<br><br><br><br><br><br><br>
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmoinshaikh&theme=tokyonight" alt="mrmoinshaikh" />
+</div>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmoinshaikh&" alt="mrmoinshaikh" /></p>
-
-<br><br><br><br><br><br><br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrmoinshaikh&show_icons=true&locale=en" alt="mrmoinshaikh" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrmoinshaikh&show_icons=true&locale=en&theme=tokyonight" alt="mrmoinshaikh" />
+</div>
