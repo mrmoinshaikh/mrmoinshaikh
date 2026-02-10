@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" alt="Wave" style="height: 35px; width:35px;"/> I'm Moinuddin Shaikh</h1>
-<h3 align="center">🤖 Data Science Engineer <br> 📊 Machine Learning Enthusiast <br> 🚀 Turning Data into Actionable Insights</h3>
+<h3 align="center">🤖 Backend Engineer <br> 📊 AI Enthusiast <br> 🚀 Creating Robust Systems</h3>
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
