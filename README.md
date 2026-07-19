@@ -23,32 +23,40 @@
 
 
 
-<h3 align="left">🚀 Featured Projects:</h3>
+<h3 align="left">🚀 Featured Projects</h3>
 
-1. **Stock Market Prediction Model**
-   - Implemented Linear Regression and LSTM for price prediction
-   - Utilized Pandas for data processing
-   - Created visualizations using Matplotlib
+<table>
+<tr>
+<td width="50%">
 
-2. **Image Classifier**
-   - Developed CNN model achieving 96% accuracy
-   - Built Flask web interface
-   - Enabled real-time image classification
+<h3 align="center">📈 AI Stock Rating Assistant</h3>
 
-3. **Customer Segmentation Analysis**
-   - Applied K-means clustering algorithms
-   - Analyzed customer demographics
-   - Generated actionable marketing insights
+Built with Python, Streamlit and Groq AI to analyze stocks using financial metrics and AI-generated insights.
 
-4. **Movie Recommendation System**
-   - Implemented collaborative filtering
-   - Processed historical ratings data
-   - Created personalized movie suggestions
+<p align="center">
+<a href="https://github.com/mrmoinshaikh/stock-rating-app.git">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrmoinshaikh&repo=Stock-Rating-Assistant&theme=tokyonight">
+</a>
+</p>
 
-5. **AI Virtual Mouse**
-   - Developing computer vision interface
-   - Implementing gesture recognition
-   - Creating hands-free control system
+</td>
+
+<td width="50%">
+
+<h3 align="center">🤖 AI Virtual Mouse</h3>
+
+Computer Vision application that controls the mouse using hand gestures.
+
+<p align="center">
+<a href="YOUR_REPO_LINK">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrmoinshaikh&repo=AI-Virtual-Mouse&theme=tokyonight">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
