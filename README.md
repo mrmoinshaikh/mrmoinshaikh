@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmoinshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="mrmoinshaikh" /> </p>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/moin-shaikh-2493a6220/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 - 🎓 Building AI-powered applications, automation tools, and backend projects
