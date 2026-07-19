@@ -52,14 +52,10 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmoinshaikh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mrmoinshaikh" />
-</div>
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mrmoinshaikh&theme=tokyonight" alt="mrmoinshaikh" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrmoinshaikh&show_icons=true&locale=en&theme=tokyonight" alt="mrmoinshaikh" />
-</div>
+
