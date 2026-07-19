@@ -34,8 +34,8 @@
 Built with Python, Streamlit and Groq AI to analyze stocks using financial metrics and AI-generated insights.
 
 <p align="center">
-<a href="https://github.com/mrmoinshaikh/stock-rating-app.git">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrmoinshaikh&repo=Stock-Rating-Assistant&theme=tokyonight">
+<a href="https://github.com/mrmoinshaikh/YOUR-REPO">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 
@@ -48,8 +48,8 @@ Built with Python, Streamlit and Groq AI to analyze stocks using financial metri
 Computer Vision application that controls the mouse using hand gestures.
 
 <p align="center">
-<a href="YOUR_REPO_LINK">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mrmoinshaikh&repo=AI-Virtual-Mouse&theme=tokyonight">
+<a href="https://github.com/mrmoinshaikh/YOUR-REPO">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
 
